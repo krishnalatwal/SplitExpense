@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Split Expense</string>
+    <string name="personal_expenses">Personal expenses</string>
+    <string name="create_group">Create Group</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="settle_up">Settle Up</string>
+    <string name="export">Export</string>
+    <string name="group_name">Group Name</string>
+    <string name="member_name">Member Name</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="paid_by">Paid by</string>
+    <string name="split_between">Split between</string>
+    <string name="add_member">Add Member</string>
+    <string name="all_settled">All settled up! 🎉</string>
+    <string name="suggested_payments">Suggested Payments</string>
+    <string name="export_csv">Export CSV</string>
+</resources>
